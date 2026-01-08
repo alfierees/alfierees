@@ -47,10 +47,5 @@ I enjoy turning messy real-world problems into structured models, insights, and 
 - Learning from people building **real products with data**
 - Internships or research roles in **analytics, finance, or strategy**
 
----
-
-## 📫 Get in touch
-- GitHub: https://github.com/alfierees  
-- LinkedIn: *(add link here)*  
 
 
