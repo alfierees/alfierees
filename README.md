@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi, I’m Alfie 👋
+## Hi, I’m Alfie 👋
 
 I’m a **Data-driven economics student** with a strong interest in **analytics, modeling, and entrepreneurship**.  
 I enjoy turning messy real-world problems into structured models, insights, and decisions.
@@ -55,8 +53,4 @@ I enjoy turning messy real-world problems into structured models, insights, and 
 - GitHub: https://github.com/alfierees  
 - LinkedIn: *(add link here)*  
 
----
 
-> I value progress driven by **clarity and purpose**, not pressure.
-
--->
