@@ -1,7 +1,11 @@
-## Hi, I’m Alfie 👋
+## Hi there! I’m Alfie 👋
 
 I’m a **Data-driven economics student** with a strong interest in **analytics, modeling, and entrepreneurship**.  
-I enjoy turning messy real-world problems into structured models, insights, and decisions.
+I enjoy turning messy real-world problems into structured models, insights, and decisions. 
+Fun facts:  
+- I'm a big coffee guy
+- Manchester United is the team I support
+- Coding is hard for me
 
 ---
 
