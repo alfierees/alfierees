@@ -4,7 +4,7 @@ Economics, Entrepreneurship & Data Science student at **Reichman University** (g
 
 Looking for **data science / ML roles**, including quantitative and analytics roles in **finance**.
 
-🌐 [alfierees.com](https://alfierees.com) · 💼 [LinkedIn](https://linkedin.com/in/YOUR-HANDLE) · ✉️ alfiejrees1@gmail.com
+🌐 [alfierees.com](https://portfolio-2026-five-henna.vercel.app/) · 💼 [LinkedIn](www.linkedin.com/in/alfie-rees) · ✉️ alfiejrees1@gmail.com
 
 ---
 
